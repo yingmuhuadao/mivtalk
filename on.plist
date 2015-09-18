@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.xiaomi.BlinkChat.dailybuild</string>
+                                <string>cn.zifei.on.dailybuild</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>BlinkChatDaily</string>
+                                <string>ON</string>
                                 <key>version</key>
-                                <string>6.1.59</string>
+                                <string>1.0.25</string>
                                 <key>description</key>
                                 <string></string>
                         </dict>
