@@ -11,13 +11,13 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://ios.update.g.mi.com/files/BlinkChat.ipa</string>
+                                        <string>https://iosdl.game.xiaomi.com/files/BlinkChat.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.xiaomi.BlinkChat.dailybuild</string>
+                                <string>com.xiaomi.duoliao.dailybuild</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
